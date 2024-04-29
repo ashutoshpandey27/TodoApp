@@ -52,7 +52,15 @@ To get started with this application:
 4. Start both the frontend and backend servers.
 5. Access the application in your browser and start managing your todo list!
 
+## Contact
+For any inquiries or suggestions, feel free to reach out to me via email:
+
+- **Email:** ashutoshp2706@gmail.com
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
 
