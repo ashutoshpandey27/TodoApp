@@ -1,0 +1,45 @@
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Build artifacts
+dist/
+coverage/
+
+# Environment configuration
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignore local database files
+*.db
+*.sqlite
+
+# Ignore Docker artifacts
+.DS_Store
+.dockerignore
+.docker/
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+
